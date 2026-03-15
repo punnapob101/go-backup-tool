@@ -21,7 +21,7 @@
 
 ### การติดตั้งและรันโปรแกรม
 
-1. **คัดลอกโปรเจกต์ (Clone):**
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/punnapob101/go-backup-tool.git](https://github.com/punnapob101/go-backup-tool.git)
    cd go-backup-tool
