@@ -23,5 +23,5 @@
 
 1. **คัดลอกโปรเจกต์ (Clone):**
    ```bash
-   git clone [https://github.com/yourusername/go-backup-tool.git](https://github.com/yourusername/go-backup-tool.git)
+   git clone [https://github.com/punnapob101/go-backup-tool.git](https://github.com/punnapob101/go-backup-tool.git)
    cd go-backup-tool
